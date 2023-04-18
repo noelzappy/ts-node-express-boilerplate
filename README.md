@@ -40,7 +40,6 @@ cp .env.example .env.test.local
 - [Authentication](#authentication)
 - [Authorization](#authorization)
 - [Logging](#logging)
-- [Custom Mongoose Plugins](#custom-mongoose-plugins)
 - [Linting](#linting)
 - [Contributing](#contributing)
 
